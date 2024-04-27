@@ -16,7 +16,7 @@
   </div>
   <div class="form-ex">
     <label for="message">Message: </label>
-    <textarea rows="15" class="input" v-model="messageEnvoyer" id="message"></textarea>
+    <textarea rows="7" class="input" v-model="messageEnvoyer" id="message"></textarea>
   </div>
 
   
