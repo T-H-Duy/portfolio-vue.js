@@ -13,6 +13,7 @@
 </template>
 
 <script>
+//npm install emailjs-com --save
 //npm install --save @emailjs/browser
 import emailjs from '@emailjs/browser';
 
