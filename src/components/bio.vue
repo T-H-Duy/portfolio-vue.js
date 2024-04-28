@@ -1,7 +1,7 @@
 <template>
     <div id="introduction">
         <div class="img">
-            <img src="src\assets\cat_relax.jpg" alt="Ma photo">
+            <img src="src/assets/images/cat_relax.jpg" alt="Ma photo">
         </div>
         <div class="presentation">
             <h1>NGUYEN T.H.Duy</h1>
@@ -42,6 +42,8 @@
 
 img{
     width: 18em;
+    height: 18em;
     border-radius: 50%;
+    box-shadow: 1em 1em 1em rgb(105, 133, 169);
 }
 </style>

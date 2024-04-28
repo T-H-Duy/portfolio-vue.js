@@ -1,9 +1,9 @@
 <template>
     <footer id="social">
         <div>
-        <a href="https://www.linkedin.com/feed/" target="_blank"><img src="src/assets/linkedin.png" alt="Logo LinkedIn"></a>
-        <a href="https://github.com/" target="_blank"><img src="src\assets\github.png" alt="Logo GitHub"></a>
-        <a href="https://twitter.com/?lang=fr" target="_blank"><img src="src\assets\twitter.png" alt="Logo Twitter"></a>
+        <a href="https://www.linkedin.com/feed/" target="_blank"><img src="src/assets/images/linkedin.png" alt="Logo LinkedIn"></a>
+        <a href="https://github.com/" target="_blank"><img src="src/assets/images/github.png" alt="Logo GitHub"></a>
+        <a href="https://twitter.com/?lang=fr" target="_blank"><img src="src/assets/images/twitter.png" alt="Logo Twitter"></a>
         </div>
         <div>
         <p><I>Dernière mise-à-jour le 25/04/2024</I></p>

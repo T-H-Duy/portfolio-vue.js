@@ -15,7 +15,7 @@
         
     <FormContactVue/>
 
-    <socialApp/>
+    <SocialLink/>
 
 </template>
 
@@ -24,28 +24,28 @@
     import { onMounted, ref } from 'vue'    
     import ProjetCard from '../components/ProjetCard.vue'
     import NavBar from '../components/NavBar.vue';
-    import socialApp from '../components/socialApp.vue';
+    import SocialLink from '../components/SocialLink.vue';
     import FormContactVue from '../components/FormContact.vue';
     import bio from '../components/bio.vue';
 
 const info = [
     {
         titre: 'Mon CV',
-        url: '/src/assets/mon_cv.png',
+        url: '/src/assets/images/mon_cv.png',
         tech: 'HTML et CSS',
         liens: 'https://github.com/T-H-Duy/Devoir-CV',
         dateCreation: '23 mars 2024'
     },
     {
         titre: 'Cahier des charges',
-        url: '/src/assets/cahierdescharges.png',
+        url: '/src/assets/images/cahierdescharges.png',
         tech: 'PDFgear, LibreOffice(7.6) et GIMP(2.10.36)',
         liens: 'https://www.fichier-pdf.fr/2024/04/28/cahierdeschargessiteecommercelasocketterie-copy/',
         dateCreation: '04 avril 2024'
     },
     {
         titre: 'Espace commentaire dynamique',
-        url: '/src/assets/com_dynamique.png',
+        url: '/src/assets/images/com_dynamique.png',
         tech: 'HTML, CSS et JavaScript',
         liens: 'https://github.com/T-H-Duy/Dynamiser-coms',
         dateCreation: '20 avril 2024'

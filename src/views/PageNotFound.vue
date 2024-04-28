@@ -3,14 +3,14 @@
     <div id="not-found">
       <h1>Page not found</h1>
       <router-link id="retourAccueil" to="/">Accueil</router-link>
-      <img src="/src/assets/404page.png" alt="erreur 404">
+      <img src="/src/assets/images/404page.png" alt="erreur 404">
     </div>
     <socialApp/>
   </template>
   
   <script setup>
     import NavBar from '../components/NavBar.vue';
-    import socialApp from '../components/socialApp.vue';
+    import socialApp from '../components/SocialLink.vue';
 
   </script>
   
