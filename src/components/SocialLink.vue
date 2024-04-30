@@ -6,7 +6,7 @@
         <a href="https://twitter.com/?lang=fr" target="_blank"><img src="src/assets/images/twitter.png" alt="Logo Twitter"></a>
         </div>
         <div>
-        <p><I>Dernière mise-à-jour le 25/04/2024</I></p>
+        <p><I>Dernière mise-à-jour le 29/04/2024</I></p>
         </div>
     </footer>
 </template>

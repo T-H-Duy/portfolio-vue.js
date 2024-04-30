@@ -5,7 +5,7 @@
       <router-link id="retourAccueil" to="/">Accueil</router-link>
       <img src="/src/assets/images/404page.png" alt="erreur 404">
     </div>
-    <socialApp/>
+  <socialApp/>
   </template>
   
   <script setup>

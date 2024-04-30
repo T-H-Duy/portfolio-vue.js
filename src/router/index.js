@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeWiew from '../views/HomeView.vue'
+import HomeView from '../views/HomeView.vue'
 import bio from '../components/bio.vue'
 import PageNotFound from '../views/PageNotFound.vue'
 
@@ -10,7 +10,7 @@ const router = createRouter({
     {
       path: '/',
       name:'home',
-      component: HomeWiew
+      component: HomeView
     },
     {
       path: '/bio',

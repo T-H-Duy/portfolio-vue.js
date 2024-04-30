@@ -44,6 +44,6 @@ img{
     width: 18em;
     height: 18em;
     border-radius: 50%;
-    box-shadow: 1em 1em 1em rgb(105, 133, 169);
+    box-shadow: 1em 0.5em rgb(105, 133, 169);
 }
 </style>

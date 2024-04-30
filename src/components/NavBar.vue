@@ -1,5 +1,5 @@
 <template>
-  <nav>
+  <nav id="navbar">
     <ul>
       <li><a href="#social">Social Media</a></li>
       <li><a href="#formContact">Contact</a></li>
@@ -18,7 +18,7 @@
 <style scoped>
  nav {
   display: flex;
-  height: 3em;
+  height: 2em;
   justify-content: space-evenly;
   align-items: center;
   background-color: #57a7b4;
@@ -29,7 +29,7 @@
 
 nav li {
   float: right;
-  padding: 3em;
+  padding: 1em;
   list-style-type: none;
 }
 
@@ -39,6 +39,6 @@ nav a {
 }
 
 nav a:hover {
-  border-bottom: 0.15em solid whitesmoke;
+  border-bottom: 0.10em solid whitesmoke;
 }
 </style>
