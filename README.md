@@ -1,3 +1,14 @@
+# Install Node.js
+
+npm init vue@latest
+npm install
+npm run dev
+
+# EmailJS
+
+npm install emailjs-com --save
+npm install --save @emailjs/browser
+
 # portfolio
 
 This template should help get you started developing with Vue 3 in Vite.
